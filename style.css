@@ -1,0 +1,11 @@
+h1{
+  text-align:center;
+  border:2px solid gray;
+  width:300px;
+}
+ol{
+  border:2px solid gray;
+  width:350px;
+  margin:10px;
+  padding-left:55px;
+}
